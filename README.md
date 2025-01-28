@@ -34,5 +34,5 @@ I'm Lucas, a fullstack developer living in Brazil.
 
 ## 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/lucas-gabriel-do-espirito-santo-972517201/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-do-espirito-santo-972517201/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.espiritosanto@edu.unifil.br)
